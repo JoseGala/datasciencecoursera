@@ -3,7 +3,10 @@ HelloWorld
 Jose Gala
 11/23/2020
 
-`{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE)`
+## This is a markdown file
+
+`{r setup, include=FALSE} 
+knitr::opts_chunk$set(echo = TRUE)`
 
 ## R Markdown
 
